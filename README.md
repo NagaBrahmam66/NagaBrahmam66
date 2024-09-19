@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NagaBrahmam66
 - 👀 I’m interested in new technologies 
-- 🌱 I’m currently learning about processors & controllers
+- 🌱 I’m currently learning about processors, controllers, VLSI design & Embedded systems
 - 💞️ I’m looking to collaborate with MNC's
 - 📫 Andhra Pradesh, Krishna district, Mudinepalli mandal, Annavaram, d.no:7-193
 - 😄 Pronouns: He
